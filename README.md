@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yoo-Ha-young&show_icons=true)
+
 
 <!--
 **Yoo-Ha-young/Yoo-Ha-young** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
