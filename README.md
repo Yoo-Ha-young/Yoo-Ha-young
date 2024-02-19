@@ -20,6 +20,6 @@
 <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white"/>
 </p>
 <br/> 
-<img width="380"  src="https://github-readme-stats.vercel.app/api?username=Yoo-Ha-young&show_icons=true&count_private=true&theme=dracula" />
+<img width="380"  src="https://github-readme-stats.vercel.app/api?username=Yoo-Ha-young/>
 
 <img width="380" src="http://github-readme-streak-stats.herokuapp.com?user=Yoo-Ha-young&theme=dracula&date_format=%5BY%20%5DM%20j">
