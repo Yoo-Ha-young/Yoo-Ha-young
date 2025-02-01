@@ -3,10 +3,10 @@
 [![Tech Blog Badge](https://img.shields.io/badge/Blog-CC0000?style=flat-square&logo=Tesla&logoColor=white&link=https://ha1fm00n.tistory.com/)](https://ha1fm00n.tistory.com/) 
 [![Portfolio Badge](https://img.shields.io/badge/Portfolio-ffffff?style=flat-square&logo=Notion&logoColor=black&link=https://www.notion.so/55c5f18b13e346f8a0960be2af20173b)](https://spring-marigold-a7d.notion.site/55c5f18b13e346f8a0960be2af20173b)
 
-* 💻 아직 배울게 많은 웹 백엔드 엔지니어입니다.
-* 🎨 항상 유저를 먼저 생각하며 코드를 작성합니다.
-* 🎨 프론트엔드, UI/UX 디자인에도 관심이 많습니다.
-
+* 💻 사용자 경험을 고려하는 웹 백엔드 엔지니어입니다.
+* 🎨 항상 유저를 먼저 생각하며 로직 설계를 합니다.
+* 👨‍💻 마케터 출신으로 유저 중심의 백엔드 개발을 합니다.
+* 
 **언어 및 도구**  
 <p>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=222323"/>
