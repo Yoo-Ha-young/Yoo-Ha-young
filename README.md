@@ -6,7 +6,7 @@
 * 💻 사용자 경험을 고려하는 웹 백엔드 엔지니어입니다.
 * 🎨 항상 유저를 먼저 생각하며 로직 설계를 합니다.
 * 👨‍💻 마케터 출신으로 유저 중심의 백엔드 개발을 합니다.
-* 
+  
 **언어 및 도구**  
 <p>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=222323"/>
